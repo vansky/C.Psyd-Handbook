@@ -10,6 +10,11 @@
 #SBATCH --gres=gpu:1                    # Specify a list of generic consumable resources (per node)
 #SBATCH --array 0-4,10-14,20-24,30-34,40-44
 
+# These lines activate your conda environment for the job
+# Replace CONDA_ENV_NAME with your environment name
+eval "$(conda shell.bash hook)"
+conda activate CONDA_ENV_NAME
+
 # Template SLURM script which adapts 25 models to the
 #   Wikitext-2 validation partition while outputting word-level
 #   complexity measures (like surprisal)
