@@ -22,7 +22,7 @@ We have an email list to announce invited talks and other news. All are welcome 
 3) **Ask questions**  
 If you have questions, feel free to ask someone else in the lab or bring it up in the `#font-of-wisdom` slack channel. 
 4) **Monitor arXiv**  
-You should monitor the arXiv feed every day (released daily at 9pm EST; C.Psyders can check the `#arxivcscl` channel in slack). Read every title. For relevant titles, read the abstract. For relevant abstracts, read the paper. Getting into this habit will really help you stay on top of the literature. Do the same thing once conference programs are announced.
+You should monitor the arXiv feed every day (released daily at 8pm EST; C.Psyders can check the `#arxivcscl` channel in slack around 9pm EST). Read every title. For relevant titles, read the abstract. For relevant abstracts, read the paper. Getting into this habit will really help you stay on top of the literature. Do the same thing once conference programs are announced.
 
 ## PhD Timeline
 Here is the target C.Psyd timeline along with milestone goals and suggestions
