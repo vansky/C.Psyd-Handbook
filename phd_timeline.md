@@ -30,3 +30,5 @@ Here is the target C.Psyd timeline along with milestone goals and suggestions
 (you may also receive postdoc offers at conferences, so you should be very active on the conference circuit)
   * Industry track: In Spring, apply for company positions
 * Defend your dissertation in the B-exam
+
+[Back to Home](README.md)
