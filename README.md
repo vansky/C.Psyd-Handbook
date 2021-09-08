@@ -1,5 +1,10 @@
 # C.Psyd Handbook
 
+## Table of Contents
+* [Grad Student Tips](#welcome-to-c.psyd)
+* [PhD Timeline](phd_timeline.md)
+* [Computing Cluster](cluster_use.md)
+
 ## Welcome to C.Psyd
 Welcome to the team! Our goal is to better understand incremental language processing strategies by studying humans, building computational models of language processing, and conducting interpretability studies of neural network models. There are a few things you should know right up front:
 
@@ -23,7 +28,3 @@ We have an email list to announce invited talks and other news. All are welcome 
 If you have questions, feel free to ask someone else in the lab or bring it up in the `#font-of-wisdom` slack channel. 
 4) **Monitor arXiv**  
 You should monitor the arXiv feed every day (released daily at 8pm EST; C.Psyders can check the `#arxivcscl` channel in slack around 9pm EST). Read every title. For relevant titles, read the abstract. For relevant abstracts, read the paper. Getting into this habit will really help you stay on top of the literature. Do the same thing once conference programs are announced.
-
-### Other Sections
-* [PhD Timeline](phd_timeline.md)
-* [Computing Cluster](cluster_use.md)
