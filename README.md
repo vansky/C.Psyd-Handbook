@@ -24,62 +24,6 @@ If you have questions, feel free to ask someone else in the lab or bring it up i
 4) **Monitor arXiv**  
 You should monitor the arXiv feed every day (released daily at 8pm EST; C.Psyders can check the `#arxivcscl` channel in slack around 9pm EST). Read every title. For relevant titles, read the abstract. For relevant abstracts, read the paper. Getting into this habit will really help you stay on top of the literature. Do the same thing once conference programs are announced.
 
-## PhD Timeline
-Here is the target C.Psyd timeline along with milestone goals and suggestions
-#### Year One
-* Coursework to get a strong foundation of theoretical linguistics upon which to build  
-* Participate in multiple labs and research groups and start doing research (which will likely result in your Q-paper)
-* Apply for the NSF Graduate Research Fellow Program (GRFP)
-#### Year Two
-* Additional coursework to round out your foundational knowledge
-* Defend your Q-paper in the Q-exam
-* Continue doing research in multiple areas (which will likely become your A-paper)
-#### Year Three
-* Submit at least one paper for publication (probably your Q-paper).  
-**From now on, aim to get at least one paper submitted per year.** Among other things, this will help ensure that you are well-integrated into the relevant research community when you go on the job market.
-* Defend your A-paper in the A-exam
-* Start formulating your dissertation proposal
-* Dip a toe into the job market  
-  * Industry track: Apply for industry internships  
-  * Academic track: Apply for internships at other research labs
-#### Year Four
-* In Fall, defend your dissertation proposal in the P-exam
-* Apply for dissertation research funding (like the NSF Doctoral Dissertation Research Improvement grant; Ling DDRI)
-* On the market (softly)
-  * Industry track: Apply for industry internships
-  * Academic track: Focus on your research profile, apply to a few dream positions  
-(if you get an offer, you can defer until you finish, but this will help you become familiar with interviews and the market)
-* Start your dissertation work
-#### Year Five
-* On the market:
-  * Academic track: In Fall, apply for tenure-track positions and postdocs  
-(you may also receive postdoc offers at conferences, so you should be very active on the conference circuit)
-  * Industry track: In Spring, apply for company positions
-* Defend your dissertation in the B-exam
-
-## G2 Cluster
-We have access to the G2 Cluster at Cornell. It's great! But if you've never used a computing cluster before, it might be daunting to get started. We've all had to start somewhere. Here are some tips to get you started, and don't be afraid to ask for help as you need it.
-
-### Setup Conda environment
-In order to install and use python libraries, you should use conda
-First create a new python environment:
-
-    conda create --name CONDA_ENV_NAME python=3.9
-
-When you want to use an environment, activate it:
-
-    conda activate CONDA_ENV_NAME
-
-Once activated, you can install python packages into the environment:
-
-    conda install PACKAGENAME
-
-Those packages are available anytime you run python while the environment is active. To activate a conda environment from an arbitrary node on the cluster, you need a little extra syntactic sugar (see `dynamic_arrays.sh`).
-
-### Running jobs on the cluster
-[Cluster help page](https://it.coecis.cornell.edu/using-the-g2-cluster)
-
-To access the cluster, you will ssh into a gateway node. You shouldn't run code on the gateway server because the gateways are underpowered and every other person logs into the cluster through the gateway, so using up its resources running jobs will prevent others from accessing the cluster. Instead, you can either:
-* Run jobs interactively using an interactive session on a compute node. This is best for testing out small bits of code and debugging. To access an interactive node run this command from the gateway:  
-`srun --pty /bin/bash` (you can use `-p PARTITION` to specify a partition)
-* Submit jobs to a computing cluster via a SLURM script. This is the usual way to run code on the cluster. There is a demo SLURM script that documents several aspects of SLURM, which you can adapt to your jobs in this repo: `dynamic_arrays.sh`.
+### Other Sections
+* [PhD Timeline](phd_timeline.md)
+* [Computing Cluster](cluster_use.md)
