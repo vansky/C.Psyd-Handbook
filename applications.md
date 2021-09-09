@@ -13,3 +13,5 @@ These are bits of advice I give in response to nearly all research statements, s
 * **Limit the exposure of vaporware**: The future work section is where you can talk about your future plans. Before then, you want to establish your credentials as an expert. As much as possible, talk about work you've already done or for which you have pilot results. Avoid talking about plans outside the future plans section where possible.
 
 * **Avoid talking about your dissertation**. You should not have this kind of phrase in your statement: "As part of my dissertation, I plan to X."  They are hiring someone who has already finished her dissertation and is blowing the world away with her brilliant work. Generally avoid talking about your dissertation and instead just talk about your work (which obviously includes work on your dissertation). If you haven't published in an area, try to at least present a figure showing to results to indicate that you're actively working on the planned stuff and publication is imminent.
+
+[Back to Home](README.md)
