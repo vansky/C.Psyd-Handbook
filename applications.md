@@ -10,11 +10,13 @@ These are bits of advice I give in response to nearly all research statements, s
 
 * **2-pages max**: Start with an executive summary paragraph, talk about what you've done for a page or so, and then talk about your future plans
 
-* **Space out your text**: Use a decent font size (12-point), utilize line spacing, increase line spacing between your paragraphs. You've done a ton of work and you want to showcase it, but if you send me a wall of text, committees won't read or retain any of it. Showcase the highlights. During the interview, you can bring up additional projects as they become relevant.
+* **Space out your text**: Use a decent font size (12-point), utilize line spacing, increase line spacing between your paragraphs. You've done a ton of work and you want to showcase it, but if you send a wall of text, committee members won't read or retain any of it. Showcase the highlights. During the interview, you can bring up additional projects as they become relevant.
 
 * **Use section headers**: These should state the takeaway for each section. They will take additional space, but committee members can easily skim for takeaways and remember them after (and if not, they can easily skim to refresh on your takeaways after reading the remaining 200 applications). 
 
 * **Use color and figures**: Most applications are entirely black and white. Adding a subtle color to your name or to section headers can be memorable and help your application stand out. Make sure the colors are legible and are not distracting. Similarly, if you can convey your findings or research agenda using a figure, it will break up the wall of text and will enable readers to quickly see what you're about. Just make sure the figures are extremely intuitive to interpret.
+
+* **Check your spelling**: You have very little space to make an impression, so fix any typos. Run a spell checker on your statement. Ask for feedback from others. Your advisors can help you with the framing, but your friends and family can check your spelling and grammar even if they're not experts in your field.
 
 ### Tenure-track positions
 * **>=1 self-citation per section**: The statement should showcase your work and establish you as an expert to faculty who are somewhat outside your area (that's why they're hiring you). That means each section in your statement needs to serve to highlight work you've done in that area, and one way to do that is to cite work you've done in that area.
