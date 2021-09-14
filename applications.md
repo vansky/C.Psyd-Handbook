@@ -1,5 +1,8 @@
 # Grad/Job Applications
 
+## Cover letters
+Make sure your cover letter is on university stationary. [Here](https://github.com/vansky/cover_letter_template) is a latex template to generate a cover letter on university stationary.
+
 ## Research Statements
 These are bits of advice I give in response to nearly all research statements, so I decided to collect them here.
 
