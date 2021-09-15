@@ -34,4 +34,10 @@ The future work section is where you can talk about your future plans. Before th
 * **Avoid talking about your dissertation**  
 You should not have this kind of phrase in your statement: "As part of my dissertation, I plan to X."  They are hiring someone who has already finished her dissertation and is blowing the world away with her brilliant work. Generally avoid talking about your dissertation and instead just talk about your work (which obviously includes work on your dissertation). If you haven't published in an area, try to at least present a figure showing to results to indicate that you're actively working on the planned stuff and publication is imminent.
 
+* **Diversity, equity, and inclusion is critical**  
+More and more, schools are tuning into their institutional lack of diversity as a problem that stifles scientific exploration. To address this issue, some programs ask for an explicit diversity statement so applicants can explain to committees how they can help increase equity at the university. Many other schools don't ask for an explicit DEI statement, but the search committees will still be looking for evidence that applicants can help with this issue. Therefore, to the extent possible, try to weave your DEI commitments into your teaching and research statements. This also shows that you take the issue seriously and that it's not just an afterthought to get hired.
+
+* **Include an open science commitment**  
+If you produce tools or data, you should open them up to the public when possible. Doing so prevents reinvention of the wheel and helps others see exactly what you did in a paper (there will always be some critical preprocessing detail you omit from the paper). Including a brief statement that you adhere to open science is increasingly important for social science positions given recent large-scale replication failures in the social sciences. For computer science, this kind of statement is less important since it is assumed that you publicly release everything (just make sure that you do).
+
 [Back to Home](README.md)
