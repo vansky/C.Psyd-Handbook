@@ -1,5 +1,5 @@
 # G2 Cluster
-[Cluster help page](https://it.coecis.cornell.edu/using-the-g2-cluster)
+[Cluster help page](https://it.coecis.cornell.edu/researchit/g2cluster/)
 
 We have access to the G2 Cluster at Cornell. It's great! But if you've never used a computing cluster before, it might be daunting to get started. We've all had to start somewhere. Here are some tips to get you started, and don't be afraid to ask for help as you need it.
 
