@@ -23,7 +23,9 @@ Those packages are available anytime you run python while the environment is act
 
 To access the cluster, you will ssh into a gateway node. You shouldn't run code on the gateway server because the gateways are underpowered and every other person logs into the cluster through the gateway, so using up its resources running jobs will prevent others from accessing the cluster. Instead, you can either:
 * Run jobs interactively using an interactive session on a compute node. This is best for testing out small bits of code and debugging. To access an interactive node run this command from the gateway:  
-`srun --pty /bin/bash` (you can use `-p PARTITION` to specify a partition)
+    `srun -p PARTITION --pty /bin/bash`  
+or  
+    `srun --pty /bin/bash`  
 * Submit jobs to a computing cluster via a SLURM script. This is the usual way to run code on the cluster. There is a demo SLURM script that documents several aspects of SLURM, which you can adapt to your jobs in this repo: [dynamic_arrays.sh](dynamic_arrays.sh).
 
 [Back to Home](README.md)
