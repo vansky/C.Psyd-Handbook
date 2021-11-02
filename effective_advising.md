@@ -33,9 +33,10 @@ Your advisor wants you to develop into an independent researcher. That means you
 
 --Send email after meeting summarizing main points of the meeting and goals for next meeting
 
---Create a shared document where you spell out the ToDo’s and their due date
+--Create a shared document where you spell out the ToDo’s and their due date.  
+**Pin the document in your 1-on-1 advisor slack chat**
 
---Create a shared document with mid and long term goals (conference abstract submission deadlines, deadlines for getting drafts to advisor/committee, exams, defenses, etc.)
-** Pin the document in your 1-on-1 advisor slack chat**
+--Create a shared document with mid and long term goals (conference abstract submission deadlines, deadlines for getting drafts to advisor/committee, exams, defenses, etc.)  
+**Pin the document in your 1-on-1 advisor slack chat**
 
 [Back to Home](README.md)
