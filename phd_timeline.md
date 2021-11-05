@@ -1,7 +1,8 @@
 # PhD Timeline
 Here is the target C.Psyd timeline along with milestone goals and suggestions  
 
-[PhD Timeline](timeline.png)  
+![PhD Timeline](timeline.png)  
+<sub>Forked from [https://codepen.io/jey/pen/jmClJ](https://codepen.io/jey/pen/jmClJ)</sub>
 
 ## Year One
 * Coursework to get a strong foundation of theoretical linguistics upon which to build  
