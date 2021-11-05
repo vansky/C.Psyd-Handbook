@@ -20,7 +20,7 @@ An important component of your job as a scientist is to communicate your finding
 4) **Monitor social media**  
 People differ in their tolerance of and susceptibility to social media. If you can stand it, keep an eye on academic Twitter to get a better sense of what's being discussed. You can also establish a presence on twitter to communicate your findings and make connections. Twitter is invaluable for virtual conferences; Twitter effectively *is* the networking part of virtual conferences.  
 5) **Plan productive meetings**
-Your time in graduate school is finite, and although 5 years sounds like a long time, it flies by (see the [PhD Timeline](phd_timeline.md), so you want to maximize the impact of meetings with advisors. [Dr. Helena Aparicio](https://linguistics.cornell.edu/helena-aparicio) has put together [a nice set of advice](effective_advising.md) for getting the most from each meeting.  
+Your time in graduate school is finite, and although 5 years sounds like a long time, it flies by (see the [PhD Timeline](phd_timeline.md)), so you want to maximize the impact of meetings with advisors. [Dr. Helena Aparicio](https://linguistics.cornell.edu/helena-aparicio) has put together [a nice set of advice](effective_advising.md) for getting the most from each meeting.  
 
 #### Tips for C.Psyders
 1) **Join the Slack**  
