@@ -1,5 +1,8 @@
 # PhD Timeline
-Here is the target C.Psyd timeline along with milestone goals and suggestions
+Here is the target C.Psyd timeline along with milestone goals and suggestions  
+
+[PhD Timeline](timeline.png)  
+
 ## Year One
 * Coursework to get a strong foundation of theoretical linguistics upon which to build  
 * Participate in multiple labs and research groups and start doing research (which will likely result in your Q-paper)
