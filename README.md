@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Grad Student Tips](#welcome-to-cpsyd)
 * [PhD Timeline](phd_timeline.md)
+* [Productive Advising Meetings](effective_advising.md)
 * [Computing Cluster](cluster_use.md)
 * [Grad/Job Applications](applications.md)
 
@@ -17,7 +18,9 @@ Course projects are helpful for learning course material, but you will retain th
 3) **Practice communication**  
 An important component of your job as a scientist is to communicate your findings. Effective communication takes practice. Luckily, you will have plenty of chances to practice. Whenever you have a chance to present your work (in class, in a research group, at a conference, or as an invited talk), take it! The more you do it, the better you'll get.
 4) **Monitor social media**  
-People differ in their tolerance of and susceptibility to social media. If you can stand it, keep an eye on academic Twitter to get a better sense of what's being discussed. You can also establish a presence on twitter to communicate your findings and make connections. Twitter is invaluable for virtual conferences; Twitter effectively *is* the networking part of virtual conferences.
+People differ in their tolerance of and susceptibility to social media. If you can stand it, keep an eye on academic Twitter to get a better sense of what's being discussed. You can also establish a presence on twitter to communicate your findings and make connections. Twitter is invaluable for virtual conferences; Twitter effectively *is* the networking part of virtual conferences.  
+5) **Plan productive meetings**
+Your time in graduate school is finite, and although 5 years sounds like a long time, it flies by (see the [PhD Timeline](phd_timeline.md), so you want to maximize the impact of meetings with advisors. [Dr. Helena Aparicio](https://linguistics.cornell.edu/helena-aparicio) has put together [a nice set of advice](effective_advising.md) for getting the most from each meeting.  
 
 #### Tips for C.Psyders
 1) **Join the Slack**  
