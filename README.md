@@ -6,6 +6,7 @@
 * [Productive Advising Meetings](effective_advising.md)
 * [Computing Cluster](cluster_use.md)
 * [Grad/Job Applications](applications.md)
+* [Funding Opportunities](funding.md)
 
 ## Welcome to C.Psyd
 Welcome to the team! Our goal is to better understand incremental language processing strategies by studying humans, building computational models of language processing, and conducting interpretability studies of neural network models. There are a few things you should know right up front:
