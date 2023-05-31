@@ -25,7 +25,7 @@ Your time in graduate school is finite, and although 5 years sounds like a long 
 
 #### Tips for C.Psyders
 1) **Join the Slack**  
-We have a very active slack workspace where most of the communication in the lab takes place. You should join the workspace and check it regularly. Email me for details.  
+We have a very active [slack workspace](slack_use.md) where most of the communication in the lab takes place. You should join the workspace and check it regularly. Email me for details.  
 (Slack access is currently restricted to students and faculty who are regular members of C.Psyd)
 2) **Join the mailing list**  
 We have an email list to announce invited talks and other news. All are welcome to join the email list. Just email me to get added.
