@@ -1,14 +1,14 @@
 # C.Psyd Handbook
 
 ## Table of Contents
-* [Grad Student Tips](#welcome-to-cpsyd)
-* [Grad/Job Applications](applications.md)
-* [PhD Timeline](phd_timeline.md)
-* [Productive Advising Meetings](effective_advising.md)
+* [Grad Student Tips](#welcome-to-cpsyd)  
+* [Grad/Job Applications](applications.md)  
+* [PhD Timeline](phd_timeline.md)  
+* [Productive Advising Meetings](effective_advising.md)  
 
-* [Computing Cluster](cluster_use.md)
-* [Funding Opportunities](funding.md)
-* [Slack Structure and Tips](slack_use.md)
+* [Computing Cluster](cluster_use.md)  
+* [Funding Opportunities](funding.md)  
+* [Slack Structure and Tips](slack_use.md)  
 
 ## Welcome to C.Psyd
 Welcome to the team! Our goal is to better understand incremental language processing strategies by studying humans, building computational models of language processing, and conducting interpretability studies of neural network models. There are a few things you should know right up front:
