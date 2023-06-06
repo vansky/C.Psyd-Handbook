@@ -6,6 +6,7 @@
 * [PhD Timeline](phd_timeline.md)  
 * [Productive Advising Meetings](effective_advising.md)  
 
+## Table of Contents - Resources
 * [Computing Cluster](cluster_use.md)  
 * [Funding Opportunities](funding.md)  
 * [Slack Structure and Tips](slack_use.md)  
