@@ -16,5 +16,6 @@ We have an active lab slack with several channels. Below is the purpose of each 
 + `#preprints-arxivcscl` Feed of daily CL/NLP Arxiv releases
     + Students interested in research should read over this each day (see [Grad Student Tips](#welcome-to-cpsyd))
 + `#tacl` Feed of recent TACL publications
-    + Students interested in research should read over this when it updates (see [Grad Student Tips](#welcome-to-cpsyd))
+    + Students interested in research should read over this when it updates (see [Grad Student Tips](#welcome-to-cpsyd))  
+
 [Back to Home](README.md)
