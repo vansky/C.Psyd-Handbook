@@ -1,14 +1,14 @@
 # C.Psyd Handbook
 
-## Table of Contents
+## Table of Contents - Advice
 * [Grad Student Tips](#welcome-to-cpsyd)  
 * [Grad/Job Applications](applications.md)  
-* [PhD Timeline](phd_timeline.md)  
 * [Productive Advising Meetings](effective_advising.md)  
 
 ## Table of Contents - Resources
 * [Computing Cluster](cluster_use.md)  
 * [Funding Opportunities](funding.md)  
+* [PhD Timeline](phd_timeline.md)  
 * [Slack Structure and Tips](slack_use.md)  
 
 ## Welcome to C.Psyd
